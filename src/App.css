@@ -1,0 +1,14 @@
+.App{
+    background-image: url("sad.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.text-myBlue{
+    color: rgb(0, 0, 173);
+}
+
+.text-myBlue a{
+    color: inherit;
+}
